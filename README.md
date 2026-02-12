@@ -13,8 +13,10 @@ This project analyzes a healthcare insurance dataset using Excel to demonstrate 
 - Built a rule-based risk flag using factors such as smoking, diabetes, and BMI
 - Created charts to visualize trends
 
-## Key Insight
-High-risk records (based on smoking, diabetes, or BMI thresholds) showed significantly higher average claim amounts compared to standard-risk records.
+## Key Insights
+- Average claims were significantly higher for smokers compared to non-smokers.
+- Records flagged as high risk showed nearly double the average claim amount compared to standard-risk records.
+- Regional differences in claim averages were observed, highlighting how segmentation helps identify trends.
 
 ## Tools Used
 - Microsoft Excel
